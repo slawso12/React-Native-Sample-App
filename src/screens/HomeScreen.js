@@ -1,5 +1,6 @@
 import React from "react";
-import { Text, StyleSheet, View, Button, TouchableOpacity } from "react-native";
+import { Text, StyleSheet, View, Button, TouchableOpacity, Image } from "react-native";
+import { Assets } from "react-navigation-stack";
 
 const HomeScreen = ({ navigation }) => {
   return (
@@ -52,7 +53,10 @@ const HomeScreen = ({ navigation }) => {
 const styles = StyleSheet.create({
   text: {
     fontSize: 30
-  }
+  },
+  // viewStyle: {
+  //   justifyContent: 'space-around'
+  // }
 });
 
 export default HomeScreen;
