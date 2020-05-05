@@ -1,10 +1,10 @@
 {
   "devToolsPort": 19002,
-  "expoServerPort": null,
-  "packagerPort": null,
-  "packagerPid": null,
-  "expoServerNgrokUrl": null,
-  "packagerNgrokUrl": null,
-  "ngrokPid": null,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 13712,
+  "expoServerNgrokUrl": "https://bj-xut.devslawson.react-native-sample-app.exp.direct",
+  "packagerNgrokUrl": "https://packager.bj-xut.devslawson.react-native-sample-app.exp.direct",
+  "ngrokPid": 13120,
   "webpackServerPort": null
 }
